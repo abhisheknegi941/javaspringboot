@@ -8,3 +8,4 @@ node{
     bat "${mvnHome}/bin/mvn package"
   }
 }
+//hello
